@@ -67,7 +67,6 @@ var checkExist = setInterval(function() {
     console.log("%cDeadcord has been injected into the Discord core. Please ensure that the Deadcord Engine is running. If you have any problems, visit our GitHub.","color: #f7f7f7; padding: 10px; background-color: #1f1a24; font-size: 20px;");
 
     try {
-      alert("Quick Test!")
       
       // Inject main panel
       var container = document.querySelector("section[class='panels-j1Uci_']");
